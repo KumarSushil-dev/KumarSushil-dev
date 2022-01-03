@@ -4,7 +4,7 @@
 </br> Total 7.5 year experience.
 
 
-[![Linkedin: Sushil](https://img.shields.io/badge/-KumarSushil-dev?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushil-kumar-085029109/)](https://www.linkedin.com/in/mahsaa/)
+[![Linkedin: Sushil](https://img.shields.io/badge/-KumarSushil-dev?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushil-kumar-085029109/)](https://www.linkedin.com/in/sushil-kumar-085029109/)
 [![GitHub Sushil](https://img.shields.io/github/followers/m9i?label=follow&style=social)](https://github.com/KumarSushil-dev)
 
 
@@ -16,8 +16,8 @@
 class KumarSushil-dev:
 
     def __init__(self):
-        self.username = 'm9i'
-        self.name = 'Mahsa Golchian'
+        self.username = 'KumarSushil-dev'
+        self.name = 'Sushil Kumar'
         self.web = 'https://m9i.github.io'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap'],
