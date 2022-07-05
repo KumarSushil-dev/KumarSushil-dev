@@ -23,7 +23,7 @@ class KumarSushil-dev:
             'backend': ['PHP','NodeJS'],
             'database': ['PostgreSQL', 'MySQL'],
             'devops': ['GitHub Actions', 'AWS'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas','AWS'],
             'misc': ['Firebase','SOLID', 'GNU/Linux']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
