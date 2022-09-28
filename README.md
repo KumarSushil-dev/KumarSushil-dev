@@ -48,6 +48,38 @@ if __name__ == '__main__':
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+WORK :)
+Updated link recent working in present year
+a).Technology (React JS (Typescript)+ Node JS)
+Public Link=>https://glulearning.com/
+b). Node Express JS REST API for LOCALLIT IOS APP. 
+
+Laravel =>
+nimbleappgenie.live/allurely/
+www.dafribank.com/
+nimbleappgenie.live/bitshops/
+nimbleappgenie.live/ecommercemaster/
+
+cakePHP=>
+eboxtenders.com (Product for Online Tender / Auction Reverse )
+idsprime.com (Product for School ERP )
+idsocialpost.com (Product for Social Media Schedular Post with Recurring )
+shreetransport.co (Transport ERP)
+ezypayroll.in
+
+
+Wordpress=>
+denalibofa.com (PrintFull Product manage)
+declutterondemand.com/
+
+
+Knowlege For =>
+AWs Server Integration with S3 Bitbucket.
+Payment Gateway.
+SMS / Google API
+CloudFlare
+
+
 
 ---
 
