@@ -49,36 +49,45 @@ if __name__ == '__main__':
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 WORK :)
-Updated link recent working in present year
+<p>Updated link recent working in present year</p>
+<ul><li>
 a).Technology (React JS (Typescript)+ Node JS)
-Public Link=>https://glulearning.com/
-b). Node Express JS REST API for LOCALLIT IOS APP. 
+Public Link=>https://glulearning.com/ </li>
+<li>b). Node Express JS REST API for LOCALLIT IOS APP.  </li> </ul>
 
 Laravel =>
-nimbleappgenie.live/allurely/
-www.dafribank.com/
-nimbleappgenie.live/bitshops/
-nimbleappgenie.live/ecommercemaster/
+<ul><li>
+nimbleappgenie.live/allurely/</li>
+<li>www.dafribank.com/</li>
+<li>nimbleappgenie.live/bitshops/</li>
+<li>nimbleappgenie.live/ecommercemaster/</li>
+</ul>
 
 cakePHP=>
-eboxtenders.com (Product for Online Tender / Auction Reverse )
-idsprime.com (Product for School ERP )
-idsocialpost.com (Product for Social Media Schedular Post with Recurring )
-shreetransport.co (Transport ERP)
-ezypayroll.in
+<ul><li>
+eboxtenders.com (Product for Online Tender / Auction Reverse )</li>
+<li>idsprime.com (Product for School ERP )</li>
+<li>idsocialpost.com (Product for Social Media Schedular Post with Recurring )</li>
+<li>shreetransport.co (Transport ERP)</li>
+<li>ezypayroll.in</li>
+    </ul>
 
 
 Wordpress=>
-denalibofa.com (PrintFull Product manage)
-declutterondemand.com/
+<ul><li>
+denalibofa.com (PrintFull Product manage) </li>
+<li>declutterondemand.com/
+    </li>
+    </ul>
 
 
 Knowlege For =>
-AWs Server Integration with S3 Bitbucket.
-Payment Gateway.
-SMS / Google API
-CloudFlare
-
+<ul><li>
+<li>AWs Server Integration with S3 Bitbucket.</li>
+<li>Payment Gateway.</li>
+<li>SMS / Google API</li>
+<li>CloudFlare</li>
+ </ul>
 
 
 ---
