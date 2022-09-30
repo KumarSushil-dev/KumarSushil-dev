@@ -51,8 +51,8 @@ if __name__ == '__main__':
 WORK :)
 <p>Updated link recent working in present year</p>
 <ul><li>
-a).Technology (React JS (Typescript)+ Node JS)
-Public Link=>https://glulearning.com/ </li>
+a).Technology (React JS (Typescript)+ Node JS) 
+Public Link=>https://glulearning.com/ (Working withon Vonage Video API for Whiteboard integration)</li>
 <li>b). Node Express JS REST API for LOCALLIT IOS APP.  </li> </ul>
 
 Laravel =>
