@@ -81,12 +81,13 @@ denalibofa.com (PrintFull Product manage) </li>
     </ul>
 
 
-Knowlege For =>
-<ul><li>
+Knowledge For =>
+<ul>
 <li>AWs Server Integration with S3 Bitbucket.</li>
 <li>Payment Gateway.</li>
 <li>SMS / Google API</li>
 <li>CloudFlare</li>
+<li>Ngrok</li>
  </ul>
 
 
