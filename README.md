@@ -58,7 +58,7 @@ Public Link=>https://glulearning.com/ (Working withon Vonage Video API for White
 Laravel =>
 <ul><li>
 nimbleappgenie.live/allurely/</li>
-<li>www.dafribank.com/</li>
+<li>dafribank.com/</li>
 <li>nimbleappgenie.live/bitshops/</li>
 <li>nimbleappgenie.live/ecommercemaster/</li>
 </ul>
